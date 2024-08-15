@@ -1,2 +1,2 @@
-LABORATORIO Numero 1
+LABORATORIO 1
 Andrea Camila Torres Gonzalez 
