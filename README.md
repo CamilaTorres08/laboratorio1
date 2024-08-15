@@ -1,5 +1,4 @@
 LABORATORIO 1
-Andrea Camila Torres Gonzalez 
-Jorge Andres Gamboa Sierra segunda vez
-Conflicto arreglado segunda vez
+ 
+Jorge Andres Gamboa Sierra tercera vez
 
