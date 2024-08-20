@@ -1,6 +1,13 @@
 LABORATORIO 1
-Andrea Camila Torres Gonzalez tercera vez 
-Jorge Andres Gamboa Sierra segunda vez
-Conflicto arreglado segunda vez
-nooooooooooooooooooooo
+Estudiantes:
+Andrea Camila Torres Gonzalez  
+Jorge Andrés Gamboa Sierra 
+
+PREGUNTAS
+1.
+2.
+3.
+4.
+
+
 
