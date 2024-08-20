@@ -1,11 +1,13 @@
 LABORATORIO 1
-Andrea Camila Torres Gonzalez tercera vez 
-Jorge Andrés Gamboa Sierra segunda vez
+Estudiantes:
+Andrea Camila Torres Gonzalez  
+Jorge Andrés Gamboa Sierra 
 
 PREGUNTAS
 1.
 2.
 3.
 4.
+
 
 
