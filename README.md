@@ -28,8 +28,23 @@ Además, es importante destacar la importancia de ejecutar un pull antes de come
 
 **3. ¿Qué es y como funciona el Pull Request?**
 
+Un pull request es una solicitud para fusionar los cambios realizados en una rama con otra dentro de un repositorio. Esta solicitud permite a los miembros del equipo revisar y discutir los cambios antes de que sean integrados. Durante el proceso de revisión, los colaboradores pueden dejar comentarios, sugerir ajustes o señalar posibles problemas. Esto asegura que los cambios sean pertinentes, estén bien implementados y encajen adecuadamente dentro del proyecto antes de ser aceptados y fusionados.
+
+### Funcionamiento:
+
+    1. Se crea una rama para hacer cambios, añadir funcionalidades, corregir errores, etc.
+    2. Se realizan los cambios y se añaden al repositorio en la rama creada.
+    3. Se crea el pull request en GitHub, indicando la rama con la que se desean fusionar los cambios y la rama de destino.
+    4. Los demás miembros del equipo revisan el código, lo comentan, sugieren mejoras, señalan problemas y piden ajustes.
+    5. Se discuten e implementan las sugerencias.
+    6. Los miembros encargados de revisar los cambios deciden si se aprueba o no el pull request.
+    7. Si se aprueba, se realiza el merge entre las dos ramas.
+    8. Se elimina la rama creada al inicio para mantener un repositorio limpio.
+
 # Bibliografía
 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+https://gist.github.com/domingogallardo/5bd3c185f3162d7a0c49
 
 https://codigonaranja.com/como-resolver-conflictos-en-git-y-otros-errores-a-subir-un-cambio#:~:text=Los%20signos%20igual%20%28%3D%3D%3D%3D%3D%3D%3D%29%20separan%20los%20cambios%20hechos,pasos%20%28git%20add.%2C%20git%20commit%20y%20git%20push%29
