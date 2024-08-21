@@ -12,6 +12,12 @@ Notificandole al usuario que debe hacer pull a los cambios, solucionar los confl
 
 <img src="ejemplo1.png" alt="Logo de la escuela de Ingeniería" width="600" >
 
+Estos conflictos generalmente tienen simbolos *<<<* *===* y *>>>* 
+
+La sección que presenta el conflicto se encuentra entre lineas *<<<HEAD ...>>>* y los signos *===* representan los cambios hechos por el usuario al que se le generó el conflicto y los cambios
+realizados por la otra persona.
+
+
 **2. ¿Hay una mejor forma de trabajar con git para no tener conflictos?**
 
 La creación de diferentes ramas es una práctica esencial para gestionar cambios en un proyecto sin alterar la rama principal (main). Estas ramas, conocidas como **feature**, son temporales y su único propósito es permitir que los desarrolladores realicen modificaciones sin afectar el código principal.
@@ -26,3 +32,5 @@ Además, es importante destacar la importancia de ejecutar un pull antes de come
 
 # Bibliografía
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+https://codigonaranja.com/como-resolver-conflictos-en-git-y-otros-errores-a-subir-un-cambio#:~:text=Los%20signos%20igual%20%28%3D%3D%3D%3D%3D%3D%3D%29%20separan%20los%20cambios%20hechos,pasos%20%28git%20add.%2C%20git%20commit%20y%20git%20push%29
